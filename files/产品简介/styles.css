@@ -14,7 +14,6 @@
   z-index:0;
 }
 #u0_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -22,7 +21,6 @@
   height:201px;
 }
 #u0 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -35,15 +33,13 @@
   color:#FFFFFF;
 }
 #u1 {
-  border-width:0px;
   position:absolute;
   left:2px;
-  top:66px;
+  top:68px;
   width:1196px;
   word-wrap:break-word;
 }
 #u2 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -51,7 +47,6 @@
   height:0px;
 }
 #u3 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:158px;
@@ -60,7 +55,6 @@
   overflow:hidden;
 }
 #u3_state0 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -77,7 +71,6 @@
   background-size:300px 30px;
 }
 #u3_state0_content {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -85,7 +78,6 @@
   height:1px;
 }
 #u4_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -93,7 +85,6 @@
   height:13px;
 }
 #u4 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:188px;
@@ -106,7 +97,6 @@
   color:#FFFFFF;
 }
 #u5 {
-  border-width:0px;
   position:absolute;
   left:2px;
   top:-2px;
@@ -115,7 +105,6 @@
   word-wrap:break-word;
 }
 #u6_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -123,18 +112,16 @@
   height:448px;
 }
 #u6 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:200px;
   width:1200px;
   height:447px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-style:normal;
   text-align:left;
 }
 #u7 {
-  border-width:0px;
   position:absolute;
   left:40px;
   top:50px;
@@ -142,7 +129,6 @@
   word-wrap:break-word;
 }
 #u8_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -150,7 +136,6 @@
   height:41px;
 }
 #u8 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:200px;
@@ -176,7 +161,6 @@
 #u8.selected {
 }
 #u9 {
-  border-width:0px;
   position:absolute;
   left:2px;
   top:6px;

@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -8,7 +8,7 @@
   line-height:normal;
 }
 .basicbutton {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -16,14 +16,14 @@
   text-align:center;
 }
 .imagecontainer {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#EDF0F2;
 }
 .basicbutton-outline {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -34,14 +34,14 @@
   text-align:left;
 }
 .san_fran_reg_12px {
-  font-family:'San Francisco Text';
+  font-family:'San Francisco Text Regular', 'San Francisco Text';
   font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#8899A6;
 }
 .san_fran_reg_20px {
-  font-family:'San Francisco Text';
+  font-family:'San Francisco Text Regular', 'San Francisco Text';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -74,41 +74,41 @@
   color:#FFFFFF;
 }
 ._一级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -270,7 +270,7 @@
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -280,7 +280,7 @@
   text-align:left;
 }
 .heading_1 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -298,7 +298,7 @@
   color:#000000;
 }
 .iconfont {
-  font-family:'iconfont';
+  font-family:'iconfont Regular', 'iconfont';
   font-weight:400;
   font-style:normal;
   font-size:18px;
