@@ -9761,38 +9761,41 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
-  height:17px;
+  width:114px;
+  height:21px;
 }
 #u3727 {
   border-width:0px;
   position:absolute;
   left:1508px;
   top:1451px;
-  width:71px;
-  height:16px;
+  width:113px;
+  height:20px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u3728 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:71px;
+  width:113px;
   white-space:nowrap;
 }
 #u3729 {
   border-width:0px;
   position:absolute;
-  left:1589px;
-  top:1448px;
-  width:249px;
+  left:1621px;
+  top:1449px;
+  width:204px;
   height:25px;
 }
 #u3729_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:249px;
+  width:204px;
   height:25px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;

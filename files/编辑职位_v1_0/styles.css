@@ -183,6 +183,9 @@
   top:60px;
   width:320px;
   height:84px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u4306 {
@@ -387,13 +390,16 @@
   top:1462px;
   width:502px;
   height:32px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:12px;
 }
 #u4322 {
   border-width:0px;
   position:absolute;
   left:10px;
-  top:8px;
+  top:-1px;
   width:482px;
   word-wrap:break-word;
 }
