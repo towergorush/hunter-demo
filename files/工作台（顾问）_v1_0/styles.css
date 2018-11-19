@@ -1978,18 +1978,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1310px;
-  height:40px;
+  width:98px;
+  height:25px;
 }
 #u392 {
   border-width:0px;
   position:absolute;
   left:103px;
-  top:354px;
-  width:1309px;
-  height:39px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:700;
+  top:362px;
+  width:97px;
+  height:24px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
   font-size:16px;
   text-align:left;
@@ -1999,9 +1999,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:8px;
-  width:1309px;
-  word-wrap:break-word;
+  top:0px;
+  width:97px;
+  white-space:nowrap;
 }
 #u394_img {
   border-width:0px;
@@ -2014,8 +2014,8 @@
 #u394 {
   border-width:0px;
   position:absolute;
-  left:181px;
-  top:355px;
+  left:218px;
+  top:357px;
   width:155px;
   height:32px;
   font-family:'MicrosoftYaHei', 'Microsoft YaHei';
@@ -2045,8 +2045,8 @@
 #u396 {
   border-width:0px;
   position:absolute;
-  left:310px;
-  top:364px;
+  left:347px;
+  top:366px;
   width:14px;
   height:14px;
 }
@@ -2078,8 +2078,8 @@
 #u399 {
   border-width:0px;
   position:absolute;
-  left:417px;
-  top:354px;
+  left:454px;
+  top:356px;
   width:132px;
   height:32px;
   font-size:14px;
@@ -2114,8 +2114,8 @@
 #u402 {
   border-width:0px;
   position:absolute;
-  left:524px;
-  top:364px;
+  left:561px;
+  top:366px;
   width:14px;
   height:13px;
   opacity:0.43;
@@ -2140,8 +2140,8 @@
 #u404 {
   border-width:0px;
   position:absolute;
-  left:346px;
-  top:354px;
+  left:383px;
+  top:356px;
   width:71px;
   height:35px;
   font-family:'MicrosoftYaHei', 'Microsoft YaHei';
@@ -5871,8 +5871,8 @@
 #u664 {
   border-width:0px;
   position:absolute;
-  left:866px;
-  top:355px;
+  left:903px;
+  top:357px;
   width:66px;
   height:32px;
   font-family:'Microsoft Tai Le';
@@ -5902,8 +5902,8 @@
 #u666 {
   border-width:0px;
   position:absolute;
-  left:947px;
-  top:360px;
+  left:984px;
+  top:362px;
   width:49px;
   height:22px;
   font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -6061,8 +6061,8 @@
 #u676 {
   border-width:0px;
   position:absolute;
-  left:572px;
-  top:355px;
+  left:609px;
+  top:357px;
   width:80px;
   height:32px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -6091,8 +6091,8 @@
 #u678 {
   border-width:0px;
   position:absolute;
-  left:653px;
-  top:355px;
+  left:690px;
+  top:357px;
   width:80px;
   height:32px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -6121,8 +6121,8 @@
 #u680 {
   border-width:0px;
   position:absolute;
-  left:733px;
-  top:355px;
+  left:770px;
+  top:357px;
   width:80px;
   height:32px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
