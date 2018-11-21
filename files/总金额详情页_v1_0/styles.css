@@ -3803,18 +3803,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:90px;
+  width:118px;
   height:55px;
 }
 #u983 {
   border-width:0px;
   position:absolute;
-  left:823px;
+  left:795px;
   top:190px;
-  width:89px;
+  width:117px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
-  font-weight:700;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.847058823529412);
@@ -3826,7 +3826,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:57px;
+  width:85px;
   white-space:nowrap;
 }
 #u985_img {
