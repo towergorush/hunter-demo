@@ -3,9 +3,12 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .basicbutton {
   font-family:'Roboto';
@@ -127,6 +130,11 @@
   color:#0000FF;
 }
 ._鼠标悬停文本链接时1 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 .line {
 }
@@ -314,3 +322,4 @@
 ._图片3 {
   color:#000000;
 }
+textarea, select, input, button { outline: none; }
